@@ -10,7 +10,7 @@ print("\033[1;35mPucpr.BES.2022-1\033[m")
 print()
 
 print("\033[1;35mIntegrantes da equipe:\033[m")
-print("\033[1;35mMateus Augusto Tozin, Julia Engels, R1avi Mughal, João Dadas e Felipe Gabriel\033[m")
+print("\033[1;35mJoão Dadas, Mateus Augusto Tozin, Julia Engels, R1avi Mughal e Felipe Gabriel\033[m")
 print("\033[1;35m-\033[1;34m"*100)
 # ---------------------------------------------------------------------------------------------
 
